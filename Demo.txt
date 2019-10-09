@@ -1,4 +1,6 @@
-My name is Nidhi.
+I am a student of BTES.
 I am pursuing SDET course from btes.
+SDET is 6 months professional training.
+Currently Git and Github topic is going on. 
 This is my github file.
 I have done some changes in this file.
